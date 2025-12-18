@@ -1,8 +1,7 @@
-## Contributors
+## Contributors :
 - Dirza
 - Dustin Tobing
 - Hans
 - Lionel
 
-## Maintainers
-- Nama Orang Lain (Collaborator)
+## Nama Program :Kalender dan Penentu Hari
